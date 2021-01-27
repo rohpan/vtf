@@ -162,3 +162,7 @@ section {
   padding-left: 4rem;
   color: #417dbe;
 }
+
+.underline {
+  text-decoration: underline;
+}
