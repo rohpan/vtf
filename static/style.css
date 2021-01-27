@@ -40,9 +40,10 @@ body {
   justify-content: center;
 }
 .sidebar_img {
-  height: 25vh;
+  height: 30vh;
   margin: auto auto;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .sidebar_topic {
   height: 70vh;
