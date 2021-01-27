@@ -43,7 +43,6 @@ body {
   height: 30vh;
   margin: auto auto;
   padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 .sidebar_topic {
   height: 70vh;
@@ -51,9 +50,9 @@ body {
 }
 .sidebar_topic-heading {
   /* fonts  */
-  font-size: 3.0rem;
+  font-size: 3.2rem;
   color: white;
-  padding-bottom: 1.5rem;
+  padding-bottom: 2rem;
 }
 
 .sidebar_topic-list {
@@ -162,8 +161,4 @@ section {
 .ans {
   padding-left: 4rem;
   color: #417dbe;
-}
-
-.underline {
-  text-decoration: underline;
 }
