@@ -187,7 +187,14 @@ section {
   font-size: 3.2rem;
   color: #417dbe;
   padding-bottom: 1.5rem;
-  background-color:rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
   border-radius: 2rem;
   border: 2px black;
+}
+
+.discord-hours {
+  
+  background-color: white;
+  border-radius: 2.5rem;
+  color: #417dbe;
 }
